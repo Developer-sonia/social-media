@@ -8,10 +8,7 @@ A simple social media application built with Django (backend) and HTML/CSS/JavaS
 - Global feed displaying posts from all users.
 - Profile page showing only the logged-in user's posts.
 - Clean and intuitive user interface.
+##superuser
 
-## Setup Instructions
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/socialmedia.git
-   cd socialmedia
+Username: Sonia
+Pass:Sonia12
